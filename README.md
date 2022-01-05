@@ -1,22 +1,13 @@
 # 송치헌 | 내일 더 비싼 개발자
 
 꾸준히 성장하는, 내일 더 비싼 개발자 송치헌입니다.
-
-![지금이 최저가!!](%E1%84%89%E1%85%A9%E1%86%BC%E1%84%8E%E1%85%B5%E1%84%92%E1%85%A5%E1%86%AB%20%E1%84%82%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%83%E1%85%A5%20%E1%84%87%E1%85%B5%E1%84%8A%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%20ad0fd7572fb845e49c6d52ba1edbe752/IMG_6635.heic)
-
 지금이 최저가!!
 
 📧  **Email**
-
 necktop9711@gmail.com
 
 📙  **Blog**
-
 [https://chi-honey.notion.site/](https://chi-honey.notion.site/)
-
-🖥  **Github**
-
-[https://github.com/Chi-Honey](https://github.com/Chi-Honey)
 
 # 🙋‍♀️ Introduce
 
