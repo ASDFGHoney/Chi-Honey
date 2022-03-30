@@ -8,8 +8,8 @@
 ## 🍯 Interested in
 
 
-`Machine Learning`
+`Web Dev`
 
-`MLOps` 
+`AWS` 
 
 `Blockchain`
