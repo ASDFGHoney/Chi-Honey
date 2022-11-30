@@ -8,7 +8,7 @@
 ## 🍯 Interested in
 
 
-`Web Dev`
+`Flutter`
 
 `AWS` 
 
