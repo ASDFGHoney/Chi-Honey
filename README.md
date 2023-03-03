@@ -11,5 +11,3 @@
 `Flutter`
 
 `AWS` 
-
-`Blockchain`
